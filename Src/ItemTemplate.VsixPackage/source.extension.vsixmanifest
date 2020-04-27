@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Id="A20D98B0-87D6-44DB-86FB-6244668BB060" Version="1.11.13" Language="en-US" Publisher="Greg Trevellick" />
         <DisplayName>SQL Server Stored Procedure</DisplayName>
-        <Description xml:space="preserve">An item template for creating / modifying a SQL Server stored procedure.</Description>
+        <Description xml:space="preserve">An item template for creating / altering a SQL Server stored procedure.</Description>
         <MoreInfo>https://github.com/GregTrevellick/VsixItemTemplateSqlScriptStoredProcedure</MoreInfo>
         <License>LICENSE.txt</License>
         <GettingStartedGuide>https://github.com/GregTrevellick/VsixItemTemplateSqlScriptStoredProcedure</GettingStartedGuide>
