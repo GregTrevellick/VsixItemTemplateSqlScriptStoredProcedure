@@ -4,7 +4,7 @@ A Visual Studio IDE item template for creating / altering SQL Server stored proc
 
 After installing this extension a new template will appear in the 'Add New Item' dialog:
 
-![](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptStoredProcedure/blob/master/Src/WidgetTemplate.VsixPackage/Resources/screen0.png?raw=true)
+![](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptStoredProcedure/blob/master/Src/ItemTemplate.VsixPackage/Resources/screen0.png?raw=true)
 
 ![](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptStoredProcedure/blob/master/Src/ItemTemplate.VsixPackage/Resources/screen1.png?raw=true)
 
