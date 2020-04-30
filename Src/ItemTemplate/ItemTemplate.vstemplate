@@ -4,7 +4,7 @@
     <Name>SQL Server Stored Procedure Script</Name>
     <Description>An item template SQL Server script for creating / altering a stored procedure</Description>
     <Icon>ItemTemplate.ico</Icon>
-    <TemplateID>50ff8065-716f-4581-8e6d-2aebe7044f55</TemplateID>
+    <TemplateID>F0A98523-74F8-460B-A9FB-4224D5712EA8</TemplateID>
     <ProjectType>CSharp</ProjectType>
 	<RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
