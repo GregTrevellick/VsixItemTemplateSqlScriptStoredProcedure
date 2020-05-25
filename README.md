@@ -35,10 +35,10 @@
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptStoredProcedure/subscription)
  
-[![Visual Studio Marketplace version](https://img.shields.io/badge/-VsixItemTemplateSqlScriptStoredProcedure-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptStoredProcedure)
-[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VsixItemTemplateSqlScriptStoredProcedure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptStoredProcedure)
-[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VsixItemTemplateSqlScriptStoredProcedure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptStoredProcedure)
-[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VsixItemTemplateSqlScriptStoredProcedure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptStoredProcedure)
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-ItemTemplateSqlScriptStoredProcedure-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptStoredProcedure)
+[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.ItemTemplateSqlScriptStoredProcedure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptStoredProcedure)
+[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.ItemTemplateSqlScriptStoredProcedure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptStoredProcedure)
+[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.ItemTemplateSqlScriptStoredProcedure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptStoredProcedure)
 
 
 
