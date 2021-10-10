@@ -1,6 +1,4 @@
-﻿/* Changes to this template can be proposed at https://github.com/GregTrevellick/VsixItemTemplateSqlScriptStoredProcedure/blob/master/Src/ItemTemplate/ItemTemplate.sql */
-
-IF NOT EXISTS
+﻿IF NOT EXISTS
             (SELECT 1
             FROM sys.procedures pro
 	        INNER JOIN sys.schemas sch ON sch.schema_id = pro.schema_id
